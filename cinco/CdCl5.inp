@@ -1,0 +1,22 @@
+# avogadro generated ORCA file
+# Cl5Cd | Geometry Optimization | B3LYP/def2-TZVP
+# [CdCl5]3- 
+#
+! Opt B3LYP def2-TZVP FREQ
+
+%maxcore 4096
+
+%pal
+   nprocs 4
+end
+
+* xyz -3 1
+   Cd    -0.000000    0.000000    0.000000
+   Cl    -2.270000    0.000000   -0.000000
+   Cl     2.270000    0.000000    0.000000
+   Cl     0.000000    2.270000    0.000000
+   Cl     0.000000   -1.135000    1.965900
+   Cl     0.000000   -1.135000   -1.965900
+*
+
+

@@ -1,0 +1,22 @@
+# avogadro generated ORCA file
+# Geometry Optimization | PBE0/def2-TZVP
+# [WCl4O]-
+#
+! Opt PBE0 def2-TZVP FREQ
+
+%maxcore 2730
+
+%pal
+   nprocs 6
+end
+
+* xyz -1 2
+   W     -0.215400   -0.963431    0.118165
+   Cl    -1.992836    0.604331   -0.091500
+   Cl     1.783731    0.306536   -0.109374
+   Cl    -2.173089   -2.311521    0.012006
+   Cl     1.505721   -2.601610   -0.005400
+   O     -0.156424   -0.315678    1.787151
+*
+
+

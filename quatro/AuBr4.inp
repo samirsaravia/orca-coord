@@ -1,0 +1,20 @@
+# avogadro generated ORCA file
+# Geometry Optimization | B3LYP/def2-TZVP
+# Au +3
+# 
+! Opt B3LYP def2-TZVP FREQ
+%maxcore 4096
+
+%pal
+   nprocs 4
+end
+
+* xyz -1 1
+   Au     0.000000   -0.000000   -0.000000
+   Br    -1.767900    1.767700    0.000000
+   Br     1.767900   -1.767700    0.000000
+   Br     1.767700    1.767900   -0.000000
+   Br    -1.767700   -1.767900   -0.000000
+*
+
+

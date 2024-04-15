@@ -1,0 +1,22 @@
+# avogadro generated ORCA file
+# Geometry Optimization | B3LYP/def2-TZVP
+# [NiCl4]2-
+# Ni +2
+#
+! Opt B3LYP def2-TZVP FREQ
+
+%maxcore 4096
+
+%pal
+   nprocs 4
+end
+
+* xyz -2 1
+   Ni     0.000000   -0.000000    0.000000
+   Cl    -0.000000   -1.989000   -1.406400
+   Cl     0.000000    1.989000   -1.406400
+   Cl    -1.989000   -0.000000    1.406400
+   Cl     1.989000   -0.000000    1.406400
+*
+
+
